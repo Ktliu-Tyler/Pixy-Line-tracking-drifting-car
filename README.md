@@ -1,9 +1,7 @@
 # Pixy-Line-tracking-drifting-car
 ## Author: Tyler  <a href='https://www.instagram.com/ktliu1995/'>(follow my instagram)</a>
 ### In our project :
-```
 We use Pixy2 and Arduino to build a line-tracking car that can drifting like a sports car.
-```
 
 ### Before started :
 * Download PixyMon-v2.  (<a href = https://github.com/charmedlabs/pixy2/raw/master/releases/pixymon_windows/pixymon_v2_windows-3.0.24.exe>Download here</a>)
@@ -17,7 +15,6 @@ We use Pixy2 and Arduino to build a line-tracking car that can drifting like a s
 * Some Battery like 18650 battery that enough to power your car.
 
 ### Build the car :
-```
 Weild the wires on your motor(N20), use screws to lock your motor, Pixy2, Arduino-Nano, battery on the planks.
 Connecting the wire to the right pin.
 In1 => pin4
@@ -26,33 +23,25 @@ In3 => pin6
 In4 => pin7
 EnA => pin9
 EnB => pin10
-```
 
 ### Set Pixy2 Cam :
-```
 Connect the Pixy cam to your computer(or laptop) and open the PixyMon-v2 to set your Pixy Cam.
 Remenber to change it to the line tracking mode, or you can't access any server from the Pixy Cam built-in functioin.
-```
 
 ### Start to code :
-```
 Copy the code on my github and open the MoterLineCarPixy.ino in the forder with Arduino-ADE.
 Then, you can build it and upload the code to your Arduino Nano.
-```
 
 ### Draw your map:
-```
 Use some paper or tape to build a map that you want to try your car on, the example we provide is using a white line map.
 If you want to change another color, you can change it in your PixyMon-v2 settings.
-```
 
 ### Play with it !!!
-```
 Keep trying and changing your speed value in the Arduino code.
 Once you find your car can turn without any strange problem.
 Then that most the best condition of your drifting car !!!
 Try more different and rough map !!!
-```
+
 ### Code detail: (我不想打英文了抱歉)
 設定參數以及引入所需的模組與物件
 ```cpp
