@@ -1,5 +1,5 @@
 # Pixy-Line-tracking-drifting-car
-## Author: Tyler
+## Author: Tyler  <a href='https://www.instagram.com/ktliu1995/'>(follow my instagram)</a>
 ### In our project :
 ```
 We use Pixy2 and Arduino to build a line-tracking car that can drifting like a sports car.
@@ -42,15 +42,18 @@ Then, you can build it and upload the code to your Arduino Nano.
 
 ### Draw your map:
 ```
-Use some paper or tape to build a map that you want to try yuor car on, the example we provide is using a white line map. If you wwant to change another color, you can change it in your PixyMon-v2 settings.
+Use some paper or tape to build a map that you want to try your car on, the example we provide is using a white line map.
+If you want to change another color, you can change it in your PixyMon-v2 settings.
 ```
 
 ### Play with it !!!
 ```
-Keep trying and changing your speed value in the Arduino code. Once you find your car can turn without any strange problem. Then that most the best condition of your drifting car !!!
+Keep trying and changing your speed value in the Arduino code.
+Once you find your car can turn without any strange problem.
+Then that most the best condition of your drifting car !!!
 Try more different and rough map !!!
 ```
-### Code detail:(我不想打英文了抱歉)
+### Code detail: (我不想打英文了抱歉)
 設定參數以及引入所需的模組與物件
 ```cpp
 #include <Pixy2.h>
@@ -218,7 +221,8 @@ void loop() {
 <hr>
 
 ### Reference:
-* Click me: <a herf='https://pixycam.com/'>Pixy.com</a>
+* Click me: <a href='https://pixycam.com/'>Pixy.com</a>
 
-* Click me: <a herf='https://www.arduino.cc/'>Arduino.cc</a>
+* Click me: <a href='https://www.arduino.cc/'>Arduino.cc</a>
+* Click me: <a href='https://www.instagram.com/hsnuddrc_4th/'>hsnuddrc</a>
 
